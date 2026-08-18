@@ -70,6 +70,19 @@ principles:
     description: >
       Disciplina operacional e transformação não são times separados: cada líder deve melhorar o presente e construir o próximo.
 
+futureCapabilities:
+  title: "Capacidades que queremos construir para o próximo ciclo"
+  items:
+    - title: "Data & Intelligence"
+      description: >
+        Transformar dados operacionais em inteligência, diferenciação e novas ofertas. É uma ambição estratégica, não uma nova caixa obrigatória agora.
+    - title: "Garanhuns como possível polo de capacidades"
+      description: >
+        O investimento e desenvolvimento de talentos em Garanhuns pode ajudar a formar capacidades futuras em dados, tecnologia e conhecimento — a tese deve ser desenvolvida antes de definir estrutura.
+    - title: "Inovação dentro de Portfólio & Ofertas"
+      description: >
+        Inovação deixa de depender de iniciativas informais: hipóteses, experimentos e MVPs são puxados e organizados dentro da lógica de portfólio.
+
 transformationMetrics:
   - id: revenue_per_fte
     label: "Receita por FTE operacional"
