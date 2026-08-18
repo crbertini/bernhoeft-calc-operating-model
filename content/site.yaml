@@ -10,22 +10,29 @@ site:
 navigation:
   - id: transformacao
     label: "Transformação"
+    short: "Por que mudar"
     path: "/"
   - id: operating-model
     label: "Operating Model"
+    short: "Como nos organizamos"
     path: "/operating-model"
   - id: lideranca
     label: "Liderança"
+    short: "Quem lidera o quê"
     path: "/lideranca"
   - id: governanca
     label: "Governança"
+    short: "Como orientamos"
     path: "/governanca"
   - id: decisoes
     label: "Direitos de decisão"
+    short: "Quem decide"
     path: "/direitos-de-decisao"
   - id: papeis
     label: "Papéis"
+    short: "Accountability clara"
     path: "/papeis"
   - id: construa-sua-area
     label: "Construa sua área"
+    short: "Agora é com você"
     path: "/construa-sua-area"
