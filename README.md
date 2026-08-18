@@ -77,3 +77,7 @@ O build valida referências entre macroáreas e papéis. YAML inválido ou refer
 - Accountability exige autoridade.
 - Heads respondem hierarquicamente ao CEO.
 - Lucas atua transversalmente como mentor e acelerador da evolução dos líderes, sem linha hierárquica sobre eles.
+
+## Status da automação
+
+- GitHub → Vercel validado em produção em 18/08/2026.
