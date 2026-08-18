@@ -19,4 +19,8 @@ responsibilities:
 authority:
   - "Definir processo comercial e gestão do pipeline."
   - "Desenhar os papéis necessários dentro da macroárea."
-  - "Tomar decisões comerciais dentro das alçadas definidas."
+  - "Tomar decisões comerciais dentro das alçadas definidas e do portfólio aprovado."
+boundaries:
+  - "Não promete customizações ou novas ofertas diretamente para o cliente sem passar por Ofertas."
+  - "Não transfere demanda comercial diretamente para Engenharia."
+  - "Operações permanece dona da relação e realização de valor após a venda."

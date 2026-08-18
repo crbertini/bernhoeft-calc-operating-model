@@ -2,6 +2,24 @@ title: "Direitos de decisão"
 description: >
   Accountability e autoridade devem estar no mesmo lugar. Fóruns consultivos aumentam a qualidade das decisões, mas não substituem o owner.
 
+innovationFlow:
+  title: "Inovar sem desorganizar a operação"
+  description: >
+    Novas necessidades não devem virar customizações informais em Engenharia, Crescimento ou Operações.
+    Ofertas incuba a hipótese, testa o MVP e só depois promove uma solução para o portfólio oficial.
+  steps:
+    - "Necessidade / hipótese de mercado"
+    - "Discovery em Ofertas"
+    - "Experimentação / MVP"
+    - "Validação de valor e economics"
+    - "Engenharia para solução sustentável"
+    - "Oferta oficial"
+    - "Crescimento vende + Operações entrega"
+  principles:
+    - "MVP não é automaticamente uma oferta oficial."
+    - "Experimento não vira responsabilidade da Operação antes de ser industrializado."
+    - "Engenharia não recebe customizações sem uma decisão explícita de Ofertas."
+
 items:
   - topic: "Estratégia corporativa"
     accountable: "CEO"
@@ -24,6 +42,20 @@ items:
     decides: "Head de Ofertas dentro da estratégia e alçadas"
     committee: "Tensiona teses e evidências"
 
+  - topic: "Hipótese, MVP e incubação de nova oferta"
+    accountable: "Head de Ofertas"
+    participants: ["Crescimento", "Tecnologia", "Operações", "cliente quando necessário"]
+    recommends: ["Product Management / Discovery", "especialistas envolvidos"]
+    decides: "Head de Ofertas autoriza experimento e decide se há evidência para promover a hipótese; CEO participa quando a alçada exigir"
+    committee: "Pode aprofundar hipótese e aprendizados; não opera o MVP"
+
+  - topic: "Promoção de MVP para oferta oficial"
+    accountable: "Head de Ofertas"
+    participants: ["Tecnologia", "Operações", "Crescimento", "Administração & Finanças quando necessário"]
+    recommends: ["Tecnologia sobre sustentabilidade técnica", "Operações sobre entregabilidade", "Crescimento sobre mercado"]
+    decides: "Head de Ofertas / CEO conforme alçada; após promoção, Crescimento comercializa e Operações entrega"
+    committee: "Pode tensionar evidências; não transforma protótipo em produto por decisão própria"
+
   - topic: "Roadmap de ofertas"
     accountable: "Head de Ofertas"
     participants: ["Tecnologia", "Operações", "Crescimento quando necessário"]
@@ -39,16 +71,16 @@ items:
     committee: "Não decide"
 
   - topic: "Produtividade e capacidade operacional"
-    accountable: "Head de Operações"
-    participants: ["L3", "L4 quando necessário"]
-    recommends: ["L3", "capacidade de Qualidade & Metodologia"]
+    accountable: "Head de Operações — atualmente acumulado por Paulo"
+    participants: ["Ricardo e Alberto — L3", "L4 quando necessário"]
+    recommends: ["L3", "capacidade de Excelência Operacional & Melhoria Contínua"]
     decides: "Head de Operações"
     committee: "Não interfere na gestão cotidiana"
 
-  - topic: "Qualidade e metodologia operacional"
-    accountable: "Head de Operações"
+  - topic: "Qualidade, padrões e melhoria contínua"
+    accountable: "Head de Operações — atualmente acumulado por Paulo"
     participants: ["L3", "L4", "Lucas como apoio quando útil"]
-    recommends: ["Capacidade de Qualidade & Metodologia", "Lucas"]
+    recommends: ["Excelência Operacional & Melhoria Contínua", "L3", "Lucas"]
     decides: "Head de Operações"
     committee: "Pode aprofundar temas sistêmicos; não substitui o Head"
 
@@ -56,20 +88,20 @@ items:
     accountable: "Head de Operações"
     participants: ["L3", "L4", "Crescimento quando houver oportunidade comercial"]
     recommends: ["L3", "L4"]
-    decides: "Head de Operações nas decisões operacionais; Crescimento nas decisões comerciais"
+    decides: "Operações decide a relação e realização de valor; Crescimento decide a negociação comercial"
     committee: "Pode analisar padrões e aprendizados; não gerencia contas"
 
   - topic: "Aquisição e vendas"
     accountable: "Head de Crescimento"
     participants: ["Ofertas", "Operações quando necessário"]
     recommends: ["Capacidade de RevOps e time comercial"]
-    decides: "Head de Crescimento dentro das alçadas"
+    decides: "Head de Crescimento dentro das alçadas e do portfólio aprovado"
     committee: "Aprofunda hipóteses de crescimento; não gerencia o funil"
 
   - topic: "Expansão da base"
     accountable: "Head de Crescimento pela negociação comercial; Head de Operações pela relação e realização de valor"
     participants: ["L3/L4 responsáveis pelo cliente", "Ofertas quando a necessidade exigir desenho de solução"]
-    recommends: ["Operações identifica e cultiva a oportunidade"]
+    recommends: ["Operações identifica, qualifica e cultiva a oportunidade", "Forecast conecta as duas áreas"]
     decides: "Crescimento conduz proposta/negociação; Operações preserva ownership da relação operacional"
     committee: "Pode analisar padrões; não aborda cliente diretamente"
 
@@ -90,6 +122,6 @@ items:
   - topic: "Desenho de papéis abaixo das macroáreas"
     accountable: "Head da área"
     participants: ["Administração & Pessoas", "CEO quando necessário"]
-    recommends: ["Lucas como mentor quando útil"]
+    recommends: ["Lucas como mentor quando útil", "César como apoio quando combinado"]
     decides: "Head dentro dos princípios e orçamento; CEO quando exigir nova posição/alçada"
     committee: "Não desenha a estrutura operacional"

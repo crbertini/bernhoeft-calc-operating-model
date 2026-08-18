@@ -4,20 +4,25 @@ leaderRole: head-ofertas
 reportsTo: ceo
 mission: >
   Gerir o portfólio econômico da CALC, decidindo quais problemas de clientes atacar,
-  quais ofertas criar, evoluir, automatizar, manter ou retirar e como capturar valor.
+  quais ofertas criar, experimentar, evoluir, automatizar, manter ou retirar e como capturar valor.
 accountabilities:
   - "Estratégia e arquitetura do portfólio."
   - "Discovery e entendimento de problemas de clientes e mercado."
   - "Priorização e roadmap de ofertas."
+  - "Experimentação, MVP e incubação de novas ofertas antes de colocá-las na operação escalável."
   - "Business cases e unit economics."
   - "Pricing e packaging, em conjunto com as alçadas definidas."
   - "Decisão sobre o melhor formato da oferta: serviço, tech-enabled, híbrido, software ou dados."
   - "Adoção, performance e evolução econômica das ofertas."
+  - "Puxar inovação de forma estruturada, protegendo Engenharia, Crescimento e Operações de customizações informais."
 capabilities:
   - name: "Gestão de portfólio"
     required: true
   - name: "Product Management e Discovery"
     required: true
+  - name: "Experimentação, MVP & Incubação de Ofertas"
+    required: true
+    note: "Permite testar hipóteses e aprender com clientes sem transformar cada pedido novo em backlog de Engenharia ou exceção operacional."
   - name: "Pricing e Packaging"
     required: true
   - name: "Product Operations"
@@ -25,9 +30,10 @@ capabilities:
     note: "Capacidade que pode permanecer no próprio Head enquanto a complexidade do portfólio for menor."
   - name: "Produtos de Dados e Inteligência"
     required: false
-    strategicHorizon: "longo-prazo"
-    note: "Tese estratégica a desenvolver; não exige hoje uma área ou cargo dedicado."
+    strategicHorizon: "futuro"
+    note: "Ambição estratégica. O investimento e desenvolvimento de talentos em Garanhuns pode contribuir para construir essa capacidade, sem pressupor hoje uma área dedicada."
 exampleRoles:
   - "Product Manager"
+  - "Responsável por Experimentação / MVP, quando a cadência justificar"
   - "Product Operations, quando necessário"
   - "Responsável por Produtos de Dados, quando a tese ganhar escala"

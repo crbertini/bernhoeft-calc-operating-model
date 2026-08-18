@@ -2,25 +2,32 @@ slug: head-ofertas
 title: "Head de Ofertas & Portfólio"
 status: "a-definir"
 reportsTo: ceo
-nature: ["liderança executiva", "portfólio", "produto", "economia das ofertas"]
+nature: ["liderança executiva", "portfólio", "produto", "inovação", "economia das ofertas"]
 mission: >
   Ser accountable pelo portfólio econômico da CALC: quais problemas resolver, quais ofertas
-  criar ou evoluir, em que formato e com qual modelo de captura de valor.
+  criar, experimentar ou evoluir, em que formato e com qual modelo de captura de valor.
 expectedOutcomes:
   - "Portfólio coerente com estratégia e necessidades de mercado."
   - "Roadmap priorizado por valor e evidência."
+  - "Inovação testada com disciplina antes de atingir a operação escalável."
   - "Ofertas com unit economics e adoção acompanhados."
   - "Evolução progressiva do mix para formatos mais escaláveis quando fizer sentido."
 responsibilities:
   - "Conduzir estratégia de portfólio e discovery."
   - "Definir roadmap de ofertas."
+  - "Estruturar experimentos, MVPs e critérios de promoção para oferta oficial."
   - "Construir business cases e acompanhar economics."
   - "Definir pricing/packaging dentro das alçadas."
   - "Decidir se cada solução deve ser serviço, tech-enabled, híbrida, software ou dados."
+  - "Puxar inovação de forma estruturada dentro do portfólio."
 authority:
   - "Priorizar o roadmap de ofertas."
+  - "Autorizar experimentos e MVPs dentro das alçadas."
   - "Propor criação, evolução ou retirada de ofertas."
+  - "Decidir quando uma hipótese tem evidência suficiente para buscar promoção a oferta oficial."
   - "Desenhar os papéis necessários dentro da macroárea."
 boundaries:
   - "Não define sozinho arquitetura ou implementação técnica."
-  - "Capacidades como Product Ops e Produtos de Dados não implicam cargos dedicados imediatos."
+  - "Não transforma protótipo em backlog permanente de Engenharia sem decisão de portfólio."
+  - "Não transfere MVP não industrializado para Operações."
+  - "Capacidades como Product Ops, Experimentação e Produtos de Dados não implicam cargos dedicados imediatos."

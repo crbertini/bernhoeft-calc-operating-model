@@ -5,7 +5,7 @@ reportsTo: ceo
 nature: ["liderança executiva", "engenharia", "arquitetura", "IA e dados"]
 mission: >
   Construir e operar tecnologia com qualidade, segurança, confiabilidade e velocidade sustentável,
-  transformando necessidades de negócio e produto em capacidades escaláveis.
+  transformando necessidades aprovadas de negócio e produto em capacidades escaláveis.
 expectedOutcomes:
   - "Arquitetura sustentável e menor retrabalho técnico."
   - "Entrega tecnológica previsível."
@@ -15,8 +15,13 @@ responsibilities:
   - "Liderar engenharia e arquitetura."
   - "Garantir plataforma, confiabilidade e segurança."
   - "Desenvolver capacidades de IA, automação e Data Engineering."
-  - "Trabalhar com Ofertas na evolução do portfólio."
+  - "Trabalhar com Ofertas na evolução do portfólio e nos MVPs que exijam apoio técnico."
 authority:
   - "Decidir arquitetura e padrões técnicos."
   - "Desenhar os papéis necessários dentro da macroárea."
   - "Definir como construir e operar soluções aprovadas no portfólio."
+boundaries:
+  - "Não é accountable pela estratégia de produto ou pela decisão de qual oferta criar."
+  - "Não define pricing ou packaging."
+  - "Não absorve customização de cliente sem uma decisão explícita de Ofertas."
+  - "Pode e deve recomendar possibilidades técnicas, mas a decisão de portfólio permanece com Ofertas."

@@ -1,6 +1,7 @@
 slug: l3
 title: "L3 — Líder de Grupo de Squads"
-status: "modelo-operacional"
+currentOwner: "Ricardo e Alberto"
+status: "ocupado-por-dois-lideres"
 reportsTo: head-operacoes
 nature: ["liderança operacional", "gestão de líderes", "performance", "clientes"]
 mission: >
@@ -17,6 +18,7 @@ responsibilities:
   - "Gerir capacidade e prioridades agregadas."
   - "Garantir disciplina de gestão e padrões operacionais."
   - "Apoiar desafios relevantes de clientes quando exigirem nível L3."
+  - "Qualificar riscos e oportunidades da base antes de escalar ao Head/Crescimento."
 authority:
   - "Tomar decisões operacionais dentro do escopo delegado pelo Head."
   - "Realocar capacidade entre squads dentro das regras da área."
@@ -24,3 +26,4 @@ authority:
 boundaries:
   - "L3 não é o líder direto de um único squad; lidera vários L4."
   - "Não substitui o Head em decisões de macroprioridade da área."
+  - "CEO evita bypass recorrente do L3 para preservar a cadeia de liderança."
