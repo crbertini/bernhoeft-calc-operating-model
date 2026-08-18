@@ -1,0 +1,22 @@
+slug: head-tecnologia
+title: "Head de Tecnologia & Engenharia"
+status: "a-avaliar"
+reportsTo: ceo
+nature: ["liderança executiva", "engenharia", "arquitetura", "IA e dados"]
+mission: >
+  Construir e operar tecnologia com qualidade, segurança, confiabilidade e velocidade sustentável,
+  transformando necessidades de negócio e produto em capacidades escaláveis.
+expectedOutcomes:
+  - "Arquitetura sustentável e menor retrabalho técnico."
+  - "Entrega tecnológica previsível."
+  - "IA, automação e dados incorporados onde geram valor."
+  - "Soluções operáveis com segurança e confiabilidade."
+responsibilities:
+  - "Liderar engenharia e arquitetura."
+  - "Garantir plataforma, confiabilidade e segurança."
+  - "Desenvolver capacidades de IA, automação e Data Engineering."
+  - "Trabalhar com Ofertas na evolução do portfólio."
+authority:
+  - "Decidir arquitetura e padrões técnicos."
+  - "Desenhar os papéis necessários dentro da macroárea."
+  - "Definir como construir e operar soluções aprovadas no portfólio."

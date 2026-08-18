@@ -1,0 +1,31 @@
+id: tecnologia
+name: "Tecnologia & Engenharia"
+leaderRole: head-tecnologia
+reportsTo: ceo
+mission: >
+  Construir e operar as capacidades tecnológicas da CALC com velocidade sustentável,
+  qualidade, segurança, confiabilidade e arquitetura preparada para escala.
+accountabilities:
+  - "Arquitetura e engenharia de software."
+  - "Plataforma e confiabilidade."
+  - "IA e automação tecnológica."
+  - "Data Engineering e disponibilização confiável de dados."
+  - "Segurança e sustentabilidade técnica."
+  - "Transformação de protótipos em produtos e capacidades operáveis."
+capabilities:
+  - name: "Engenharia de Software"
+    required: true
+  - name: "Arquitetura"
+    required: true
+  - name: "Plataforma e confiabilidade"
+    required: true
+  - name: "IA e automação"
+    required: true
+  - name: "Data Engineering"
+    required: true
+  - name: "Suporte de produtos de software"
+    required: true
+    note: "Capacidade necessária; o desenho do papel depende do volume e criticidade do portfólio."
+  - name: "Segurança"
+    required: true
+principle: "Ofertas define o que e por quê; Tecnologia decide como construir e operar de forma sustentável."

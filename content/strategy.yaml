@@ -1,0 +1,90 @@
+hero:
+  eyebrow: "Transformação organizacional"
+  title: "Disciplina para Operar. Ousadia para Transformar."
+  subtitle: >
+    Evoluir a forma de operar sem perder o que tornou a CALC forte — e construir
+    as capacidades necessárias para escalar conhecimento, tecnologia, IA e dados.
+
+thesis:
+  title: "A CALC que estamos construindo"
+  statement: >
+    O próximo ciclo de crescimento exige desacoplar progressivamente escala de receita
+    e crescimento de headcount, transformando conhecimento especializado em processos,
+    serviços aumentados por tecnologia e IA, soluções híbridas, software e ativos de dados.
+  economicNorthStar: >
+    Aumentar de forma sustentável a receita e a margem geradas por unidade de conhecimento humano proprietário.
+
+continuum:
+  title: "Nem todo serviço precisa virar software"
+  description: >
+    Cada oferta deve encontrar o ponto de maior valor econômico e experiência para o cliente.
+  stages:
+    - "Serviço humano especializado"
+    - "Serviço aumentado por tecnologia e IA"
+    - "Managed Service altamente automatizado"
+    - "Solução híbrida"
+    - "Produto de software"
+    - "Produto de dados e inteligência"
+
+fromTo:
+  - from: "Conhecimento concentrado nas pessoas"
+    to: "Conhecimento institucional, reutilizável e escalável"
+  - from: "Escala predominantemente por headcount"
+    to: "Escala por pessoas + processos + tecnologia + IA + dados"
+  - from: "Serviços isolados"
+    to: "Portfólio econômico de soluções"
+  - from: "Tecnologia como suporte"
+    to: "Tecnologia como parte da proposta de valor"
+  - from: "Dados como registro da operação"
+    to: "Dados como inteligência, diferenciação e novas ofertas"
+  - from: "Estrutura baseada principalmente em cargos"
+    to: "Organização orientada a papéis, capacidades e accountabilities"
+  - from: "Líder como resolvedor"
+    to: "Líder que cria autonomia, disciplina e capacidade no time"
+  - from: "Cliente compra execução"
+    to: "Cliente percebe e compra resultado"
+  - from: "Melhorar o atual"
+    to: "Melhorar o atual e construir o próximo"
+
+principles:
+  - title: "Macroestrutura clara, desenho local flexível"
+    description: >
+      A empresa define macroáreas, missões, accountabilities e interfaces. Cada Head desenha os papéis necessários dentro da sua área.
+  - title: "Capacidade não é cargo"
+    description: >
+      Product Management, RevOps ou Produtos de Dados podem ser capacidades necessárias sem exigir imediatamente posições dedicadas.
+  - title: "Pessoa não é papel"
+    description: >
+      Uma pessoa pode exercer mais de um papel; um papel só deve se tornar uma posição dedicada quando escala e complexidade justificarem.
+  - title: "Accountability exige autoridade"
+    description: >
+      Quem responde por um resultado precisa ter alçada suficiente para tomar as decisões necessárias.
+  - title: "Ofertas administra o portfólio econômico"
+    description: >
+      A área decide quais problemas atacar, quais ofertas criar, evoluir, automatizar, manter ou retirar, e como capturar valor.
+  - title: "Produto e Tecnologia são distintos"
+    description: >
+      Ofertas define o que e por quê; Tecnologia define como construir e operar de forma sustentável.
+  - title: "Operar e transformar acontecem juntos"
+    description: >
+      Disciplina operacional e transformação não são times separados: cada líder deve melhorar o presente e construir o próximo.
+
+transformationMetrics:
+  - id: revenue_per_fte
+    label: "Receita por FTE operacional"
+    intent: "Medir desacoplamento entre escala de receita e escala de pessoas."
+  - id: automation_rate
+    label: "% de etapas automatizadas"
+    intent: "Medir quanto da operação é executada com menor intervenção humana."
+  - id: productivity
+    label: "Produtividade operacional"
+    intent: "Medir output por unidade de capacidade."
+  - id: contribution_margin
+    label: "Margem de contribuição por oferta"
+    intent: "Medir qualidade econômica do portfólio."
+  - id: reusable_ip_revenue
+    label: "Receita apoiada por ativos reutilizáveis"
+    intent: "Medir alavancagem do conhecimento institucional."
+  - id: portfolio_mix
+    label: "Mix de receita por tipo de oferta"
+    intent: "Acompanhar serviços, tech-enabled, híbridos, software e dados."

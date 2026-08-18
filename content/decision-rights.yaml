@@ -1,0 +1,95 @@
+title: "Direitos de decisão"
+description: >
+  Accountability e autoridade devem estar no mesmo lugar. Fóruns consultivos aumentam a qualidade das decisões, mas não substituem o owner.
+
+items:
+  - topic: "Estratégia corporativa"
+    accountable: "CEO"
+    participants: ["Heads"]
+    recommends: ["Conselho", "Comitê quando aprofundar tema"]
+    decides: "CEO dentro da alçada; Conselho nas matérias de governança"
+    committee: "Aprofunda e recomenda"
+
+  - topic: "Orçamento e alocação relevante de capital"
+    accountable: "CEO"
+    participants: ["Heads", "Administração & Finanças"]
+    recommends: ["Heads"]
+    decides: "CEO / Conselho conforme alçada"
+    committee: "Pode aprofundar teses; não executa"
+
+  - topic: "Portfólio de ofertas"
+    accountable: "Head de Ofertas"
+    participants: ["Operações", "Crescimento", "Tecnologia"]
+    recommends: ["Capacidades de Product Management / Discovery"]
+    decides: "Head de Ofertas dentro da estratégia e alçadas"
+    committee: "Tensiona teses e evidências"
+
+  - topic: "Roadmap de ofertas"
+    accountable: "Head de Ofertas"
+    participants: ["Tecnologia", "Operações", "Crescimento quando necessário"]
+    recommends: ["Papéis de produto existentes na área"]
+    decides: "Head de Ofertas"
+    committee: "Não gerencia a cadência nem backlog"
+
+  - topic: "Arquitetura e padrões técnicos"
+    accountable: "Head de Tecnologia"
+    participants: ["Engenharia"]
+    recommends: ["Especialistas técnicos"]
+    decides: "Head de Tecnologia"
+    committee: "Não decide"
+
+  - topic: "Produtividade e capacidade operacional"
+    accountable: "Head de Operações"
+    participants: ["L3", "L4 quando necessário"]
+    recommends: ["L3", "capacidade de Qualidade & Metodologia"]
+    decides: "Head de Operações"
+    committee: "Não interfere na gestão cotidiana"
+
+  - topic: "Qualidade e metodologia operacional"
+    accountable: "Head de Operações"
+    participants: ["L3", "L4", "Lucas como apoio quando útil"]
+    recommends: ["Capacidade de Qualidade & Metodologia", "Lucas"]
+    decides: "Head de Operações"
+    committee: "Pode aprofundar temas sistêmicos; não substitui o Head"
+
+  - topic: "Experiência e realização de valor do cliente"
+    accountable: "Head de Operações"
+    participants: ["L3", "L4", "Crescimento quando houver oportunidade comercial"]
+    recommends: ["L3", "L4"]
+    decides: "Head de Operações nas decisões operacionais; Crescimento nas decisões comerciais"
+    committee: "Pode analisar padrões e aprendizados; não gerencia contas"
+
+  - topic: "Aquisição e vendas"
+    accountable: "Head de Crescimento"
+    participants: ["Ofertas", "Operações quando necessário"]
+    recommends: ["Capacidade de RevOps e time comercial"]
+    decides: "Head de Crescimento dentro das alçadas"
+    committee: "Aprofunda hipóteses de crescimento; não gerencia o funil"
+
+  - topic: "Expansão da base"
+    accountable: "Head de Crescimento pela negociação comercial; Head de Operações pela relação e realização de valor"
+    participants: ["L3/L4 responsáveis pelo cliente", "Ofertas quando a necessidade exigir desenho de solução"]
+    recommends: ["Operações identifica e cultiva a oportunidade"]
+    decides: "Crescimento conduz proposta/negociação; Operações preserva ownership da relação operacional"
+    committee: "Pode analisar padrões; não aborda cliente diretamente"
+
+  - topic: "Pricing e packaging"
+    accountable: "Head de Ofertas"
+    participants: ["Crescimento", "Administração & Finanças"]
+    recommends: ["Ofertas", "Crescimento"]
+    decides: "Head de Ofertas / CEO conforme alçada"
+    committee: "Pode tensionar tese econômica"
+
+  - topic: "Projetos especiais apoiados por Lucas"
+    accountable: "Head da área; CEO quando for iniciativa corporativa transversal"
+    participants: ["Lucas", "times necessários"]
+    recommends: ["Lucas e líder accountable"]
+    decides: "Líder accountable"
+    committee: "Pode recomendar exploração; não assume ownership"
+
+  - topic: "Desenho de papéis abaixo das macroáreas"
+    accountable: "Head da área"
+    participants: ["Administração & Pessoas", "CEO quando necessário"]
+    recommends: ["Lucas como mentor quando útil"]
+    decides: "Head dentro dos princípios e orçamento; CEO quando exigir nova posição/alçada"
+    committee: "Não desenha a estrutura operacional"

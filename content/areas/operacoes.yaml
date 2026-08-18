@@ -1,0 +1,37 @@
+id: operacoes
+name: "Operações & Experiência do Cliente"
+leaderRole: head-operacoes
+reportsTo: ceo
+mission: >
+  Entregar e ampliar continuamente o valor percebido pelo cliente, com qualidade,
+  produtividade, previsibilidade, margem e proximidade.
+accountabilities:
+  - "Entrega dos serviços e soluções contratadas."
+  - "Experiência do cliente durante toda a relação operacional."
+  - "Realização contínua de valor pelo cliente."
+  - "Produtividade, capacidade, qualidade, SLA e margem operacional."
+  - "Desenvolvimento da disciplina operacional dos L3 e L4."
+  - "Identificação de riscos de relacionamento e oportunidades de expansão."
+  - "Parceria com Crescimento para comercialização de oportunidades de expansão."
+capabilities:
+  - name: "Gestão de squads e capacidade"
+    required: true
+  - name: "Experiência e realização de valor"
+    required: true
+  - name: "Qualidade e metodologia"
+    required: true
+  - name: "Gestão de performance operacional"
+    required: true
+  - name: "Melhoria contínua e automação"
+    required: true
+  - name: "Identificação de expansão na base"
+    required: true
+exampleRoles:
+  - "L3 — Líder de Grupo de Squads"
+  - "L4 — Líder de Squad"
+  - "Papel de Qualidade & Metodologia, quando necessário"
+customerModel:
+  primaryRelationshipOwner: "Operações"
+  expansionModel: >
+    Operações identifica e cultiva a oportunidade; Crescimento conduz a abordagem comercial e negociação em parceria com o responsável operacional.
+  principle: "O cliente deve perceber uma Bernhoeft integrada, não múltiplas interfaces concorrentes."

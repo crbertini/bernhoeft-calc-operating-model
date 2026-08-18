@@ -1,0 +1,54 @@
+slug: lucas
+title: "Sócio Especialista & Mentor de Lideranças"
+shortTitle: "Sócio Especialista"
+currentOwner: "Lucas"
+status: "confirmado-conceitualmente"
+reportsTo: null
+hierarchicalAuthority: false
+orgChartPosition: "transversal-abaixo-das-macroareas"
+relationshipStyle: "dotted-line"
+nature:
+  - "mentoria"
+  - "conhecimento de domínio"
+  - "evolução operacional"
+  - "apoio transversal"
+mission: >
+  Acelerar a evolução da capacidade operacional dos líderes da CALC, colocando experiência,
+  conhecimento e repertório à disposição das áreas sem substituir a autoridade e a accountability de seus líderes.
+missionHighlight: >
+  Lucas atua por meio dos líderes, não no lugar dos líderes.
+expectedOutcomes:
+  - "Líderes progressivamente mais capazes de estruturar e resolver desafios."
+  - "Conhecimento crítico disseminado e institucionalizado."
+  - "Maior disciplina de gestão e qualidade de decisão nas áreas."
+  - "Desafios complexos destravados sem criação de uma linha paralela de comando."
+responsibilities:
+  - "Mentorar e desenvolver líderes."
+  - "Apoiar líderes no desenho de desafios, alternativas e decisões complexas."
+  - "Disseminar conhecimento técnico, repertório e boas práticas entre áreas."
+  - "Ajudar a transformar experiência em métodos, playbooks, critérios e conhecimento institucional."
+  - "Participar de pequenos projetos especiais quando agregarem aprendizado ou destravarem desafios relevantes."
+  - "Apoiar a construção de disciplina operacional, sempre junto ao líder accountable."
+authority:
+  - "Acesso transversal aos líderes e áreas para apoiar aprendizado e desafios."
+  - "Pode facilitar ou tocar pequenos projetos especiais quando houver um Head/CEO accountable claramente definido."
+  - "Pode recomendar mudanças, métodos e caminhos."
+boundaries:
+  - "Não possui subordinados diretos no desenho-alvo."
+  - "Não é chefe dos Heads, L3 ou L4."
+  - "Não altera a linha hierárquica: os Heads respondem ao CEO."
+  - "Não assume a accountability do líder da área."
+  - "Não cria iniciativas paralelas sem conexão explícita com o líder accountable."
+interfaces:
+  - "CEO"
+  - "Head de Operações"
+  - "Head de Crescimento"
+  - "Head de Ofertas"
+  - "Head de Tecnologia"
+  - "Head de Administração, Finanças & Pessoas"
+ritualSuggestion:
+  - "Mentorias periódicas com líderes conforme necessidade."
+  - "Sessões de aprendizagem e revisão de desafios."
+  - "Participação pontual em fóruns e projetos especiais."
+successDefinition: >
+  O sucesso do papel não é quantos problemas Lucas resolve, mas quanto aumenta a capacidade dos líderes de decidir e resolver melhor.

@@ -1,0 +1,24 @@
+id: administracao
+name: "Administração, Finanças & Pessoas"
+leaderRole: head-administracao
+reportsTo: ceo
+mission: >
+  Sustentar o crescimento com disciplina financeira, desenvolvimento de pessoas,
+  infraestrutura corporativa e processos de gestão confiáveis.
+accountabilities:
+  - "Finanças e controladoria."
+  - "Planejamento e acompanhamento econômico-financeiro."
+  - "Pessoas, cultura e desenvolvimento organizacional."
+  - "Infraestrutura e serviços corporativos."
+  - "Suporte ao desenho de incentivos, posições e desenvolvimento de lideranças."
+capabilities:
+  - name: "Finanças e controladoria"
+    required: true
+  - name: "FP&A / planejamento"
+    required: true
+  - name: "Pessoas e cultura"
+    required: true
+  - name: "Desenvolvimento organizacional"
+    required: true
+  - name: "Infraestrutura corporativa"
+    required: true

@@ -1,0 +1,22 @@
+slug: head-crescimento
+title: "Head de Crescimento"
+currentOwner: "Pedro"
+status: "confirmado"
+reportsTo: ceo
+nature: ["liderança executiva", "marketing", "vendas", "expansão"]
+mission: >
+  Construir crescimento previsível por aquisição, expansão, canais e disciplina comercial.
+expectedOutcomes:
+  - "Pipeline e forecast confiáveis."
+  - "Aquisição eficiente de novos clientes."
+  - "Expansão da base realizada em parceria com Operações."
+  - "Melhor conversão e aprendizagem comercial."
+responsibilities:
+  - "Liderar Marketing, Vendas e desenvolvimento de mercado."
+  - "Conduzir negociações de expansão sinalizadas pela operação."
+  - "Desenvolver canais e parcerias."
+  - "Garantir dados, processos e rituais comerciais confiáveis."
+authority:
+  - "Definir processo comercial e gestão do pipeline."
+  - "Desenhar os papéis necessários dentro da macroárea."
+  - "Tomar decisões comerciais dentro das alçadas definidas."

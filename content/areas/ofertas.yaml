@@ -1,0 +1,33 @@
+id: ofertas
+name: "Ofertas & Portfólio"
+leaderRole: head-ofertas
+reportsTo: ceo
+mission: >
+  Gerir o portfólio econômico da CALC, decidindo quais problemas de clientes atacar,
+  quais ofertas criar, evoluir, automatizar, manter ou retirar e como capturar valor.
+accountabilities:
+  - "Estratégia e arquitetura do portfólio."
+  - "Discovery e entendimento de problemas de clientes e mercado."
+  - "Priorização e roadmap de ofertas."
+  - "Business cases e unit economics."
+  - "Pricing e packaging, em conjunto com as alçadas definidas."
+  - "Decisão sobre o melhor formato da oferta: serviço, tech-enabled, híbrido, software ou dados."
+  - "Adoção, performance e evolução econômica das ofertas."
+capabilities:
+  - name: "Gestão de portfólio"
+    required: true
+  - name: "Product Management e Discovery"
+    required: true
+  - name: "Pricing e Packaging"
+    required: true
+  - name: "Product Operations"
+    required: false
+    note: "Capacidade que pode permanecer no próprio Head enquanto a complexidade do portfólio for menor."
+  - name: "Produtos de Dados e Inteligência"
+    required: false
+    strategicHorizon: "longo-prazo"
+    note: "Tese estratégica a desenvolver; não exige hoje uma área ou cargo dedicado."
+exampleRoles:
+  - "Product Manager"
+  - "Product Operations, quando necessário"
+  - "Responsável por Produtos de Dados, quando a tese ganhar escala"

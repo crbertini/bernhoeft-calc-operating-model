@@ -1,0 +1,39 @@
+slug: ceo
+title: "CEO"
+currentOwner: "Paulo"
+status: "confirmado"
+reportsTo: "Conselho Estratégico"
+nature:
+  - "liderança executiva"
+  - "transformação"
+  - "accountability final"
+mission: >
+  Liderar a CALC, dando direção, prioridades e accountability ao time executivo e conduzindo
+  a transformação necessária para construir o próximo ciclo de crescimento.
+expectedOutcomes:
+  - "Estratégia traduzida em escolhas e prioridades claras."
+  - "Heads fortes, autônomos e accountable por suas áreas."
+  - "Capital e capacidade direcionados aos temas de maior impacto."
+  - "Evolução do modelo de negócio e do portfólio."
+  - "Menor dependência do CEO para resolução operacional cotidiana."
+responsibilities:
+  - "Definir e comunicar direção estratégica."
+  - "Liderar a transformação da empresa."
+  - "Formar, desenvolver e cobrar o time de Heads."
+  - "Definir prioridades e arbitrar conflitos entre macroáreas."
+  - "Alocar capital e capacidade entre operação atual e transformação."
+  - "Conectar gestão executiva, Conselho e Comitê."
+authority:
+  - "Todos os Heads respondem hierarquicamente ao CEO."
+  - "Decidir matérias executivas corporativas não delegadas aos Heads."
+  - "Arbitrar conflitos de prioridade ou alçada entre áreas."
+  - "Propor ao Conselho grandes movimentos estratégicos e de capital."
+boundaries:
+  - "Não deve ser o resolvedor padrão de problemas operacionais das áreas."
+  - "Não substitui a accountability dos Heads."
+  - "Não gerencia diretamente squads, L3 ou L4 salvo exceção temporária explicitamente acordada."
+interfaces:
+  - "Conselho Estratégico"
+  - "Comitê de Crescimento & Transformação"
+  - "Heads das cinco macroáreas"
+  - "Lucas — suporte transversal à evolução dos líderes"

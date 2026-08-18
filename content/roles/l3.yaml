@@ -1,0 +1,26 @@
+slug: l3
+title: "L3 — Líder de Grupo de Squads"
+status: "modelo-operacional"
+reportsTo: head-operacoes
+nature: ["liderança operacional", "gestão de líderes", "performance", "clientes"]
+mission: >
+  Liderar um conjunto de L4 e squads, garantindo consistência de gestão, capacidade,
+  performance, desenvolvimento de líderes e experiência do cliente no seu escopo.
+expectedOutcomes:
+  - "L4 autônomos e evoluindo como líderes."
+  - "Squads com performance consistente."
+  - "Capacidade e demanda equilibradas."
+  - "Problemas e oportunidades escalados no nível correto."
+responsibilities:
+  - "Liderar e desenvolver múltiplos L4."
+  - "Acompanhar performance do conjunto de squads."
+  - "Gerir capacidade e prioridades agregadas."
+  - "Garantir disciplina de gestão e padrões operacionais."
+  - "Apoiar desafios relevantes de clientes quando exigirem nível L3."
+authority:
+  - "Tomar decisões operacionais dentro do escopo delegado pelo Head."
+  - "Realocar capacidade entre squads dentro das regras da área."
+  - "Cobrar e desenvolver L4 pelos resultados de seus squads."
+boundaries:
+  - "L3 não é o líder direto de um único squad; lidera vários L4."
+  - "Não substitui o Head em decisões de macroprioridade da área."

@@ -1,0 +1,28 @@
+slug: "nome-unico-do-papel"
+title: "Nome do papel"
+currentOwner: null
+status: "rascunho"
+reportsTo: "slug-do-papel-superior-ou-null"
+nature:
+  - "tipo de contribuição"
+mission: >
+  Em uma frase, por que este papel existe?
+expectedOutcomes:
+  - "Quais resultados existem quando este papel funciona bem?"
+responsibilities:
+  - "O que este papel precisa fazer continuamente?"
+authority:
+  - "Que decisões este papel pode tomar sem pedir autorização?"
+kpis:
+  - "Quais indicadores ajudam a avaliar o resultado do papel?"
+interfaces:
+  - "Com quais papéis ou áreas precisa trabalhar?"
+rituals:
+  - "Quais rituais sustentam o papel?"
+boundaries:
+  - "O que este papel explicitamente não faz?"
+priorities12Months:
+  - "Quais são as prioridades temporárias do papel?"
+validation:
+  owner: "Head responsável"
+  status: "rascunho"

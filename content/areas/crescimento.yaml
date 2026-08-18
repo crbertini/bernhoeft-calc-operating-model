@@ -1,0 +1,32 @@
+id: crescimento
+name: "Crescimento"
+leaderRole: head-crescimento
+reportsTo: ceo
+mission: >
+  Construir um motor previsível de aquisição e expansão de receita, conectando mercado,
+  posicionamento, canais, vendas e oportunidades identificadas na base.
+accountabilities:
+  - "Estratégia comercial e de marketing."
+  - "Aquisição de novos clientes."
+  - "Conversão de pipeline e previsibilidade de receita."
+  - "Expansão comercial da base em parceria com Operações."
+  - "Canais, parceiros e desenvolvimento de mercado."
+  - "Disciplina de dados e processo do funil comercial."
+capabilities:
+  - name: "Marketing e geração de demanda"
+    required: true
+  - name: "Vendas Enterprise"
+    required: true
+  - name: "Vendas PME / canais conforme estratégia"
+    required: false
+  - name: "Gestão de parceiros"
+    required: true
+  - name: "Revenue Operations"
+    required: true
+    note: "Capacidade necessária; não implica cargo ou área dedicada neste momento."
+  - name: "Forecast e inteligência comercial"
+    required: true
+exampleRoles:
+  - "Executivo de Contas"
+  - "Gestão de Parcerias"
+  - "RevOps, quando volume e complexidade justificarem"

@@ -1,0 +1,27 @@
+slug: l4
+title: "L4 — Líder de Squad"
+status: "modelo-operacional"
+reportsTo: l3
+nature: ["liderança de squad", "entrega", "pessoas", "experiência do cliente"]
+mission: >
+  Liderar um squad específico, com nome e escopo definidos, garantindo entrega, pessoas,
+  disciplina operacional, proximidade com clientes e melhoria contínua.
+expectedOutcomes:
+  - "Squad entregando com qualidade e previsibilidade."
+  - "Time desenvolvido e com responsabilidades claras."
+  - "Cliente percebendo valor na relação cotidiana."
+  - "Problemas e oportunidades identificados rapidamente."
+responsibilities:
+  - "Liderar o squad no dia a dia."
+  - "Acompanhar entrega, capacidade, qualidade e indicadores."
+  - "Desenvolver as pessoas do squad."
+  - "Manter proximidade operacional com os clientes do escopo."
+  - "Identificar riscos e oportunidades e envolver L3/Crescimento quando necessário."
+authority:
+  - "Decidir a execução cotidiana dentro do escopo do squad."
+  - "Organizar trabalho e capacidade respeitando prioridades e padrões da área."
+boundaries:
+  - "Escala temas que ultrapassam alçada ou capacidade do squad ao L3."
+  - "Não conduz sozinho negociação comercial de expansão."
+squadName: null
+note: "Cada instância real deste papel deve carregar o nome específico do squad."

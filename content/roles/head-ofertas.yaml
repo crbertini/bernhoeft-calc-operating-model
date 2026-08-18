@@ -1,0 +1,26 @@
+slug: head-ofertas
+title: "Head de Ofertas & Portfólio"
+status: "a-definir"
+reportsTo: ceo
+nature: ["liderança executiva", "portfólio", "produto", "economia das ofertas"]
+mission: >
+  Ser accountable pelo portfólio econômico da CALC: quais problemas resolver, quais ofertas
+  criar ou evoluir, em que formato e com qual modelo de captura de valor.
+expectedOutcomes:
+  - "Portfólio coerente com estratégia e necessidades de mercado."
+  - "Roadmap priorizado por valor e evidência."
+  - "Ofertas com unit economics e adoção acompanhados."
+  - "Evolução progressiva do mix para formatos mais escaláveis quando fizer sentido."
+responsibilities:
+  - "Conduzir estratégia de portfólio e discovery."
+  - "Definir roadmap de ofertas."
+  - "Construir business cases e acompanhar economics."
+  - "Definir pricing/packaging dentro das alçadas."
+  - "Decidir se cada solução deve ser serviço, tech-enabled, híbrida, software ou dados."
+authority:
+  - "Priorizar o roadmap de ofertas."
+  - "Propor criação, evolução ou retirada de ofertas."
+  - "Desenhar os papéis necessários dentro da macroárea."
+boundaries:
+  - "Não define sozinho arquitetura ou implementação técnica."
+  - "Capacidades como Product Ops e Produtos de Dados não implicam cargos dedicados imediatos."

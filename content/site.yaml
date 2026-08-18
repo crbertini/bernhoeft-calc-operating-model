@@ -1,0 +1,31 @@
+site:
+  name: "Bernhoeft CALC"
+  title: "Operating Model e Role Charts"
+  theme: "Disciplina para Operar. Ousadia para Transformar."
+  description: >
+    Modelo organizacional para escalar a CALC combinando excelência em serviços,
+    conhecimento proprietário, tecnologia, IA, dados e novas ofertas.
+  status: "em-validacao"
+
+navigation:
+  - id: transformacao
+    label: "Transformação"
+    path: "/"
+  - id: operating-model
+    label: "Operating Model"
+    path: "/operating-model"
+  - id: lideranca
+    label: "Liderança"
+    path: "/lideranca"
+  - id: governanca
+    label: "Governança"
+    path: "/governanca"
+  - id: decisoes
+    label: "Direitos de decisão"
+    path: "/direitos-de-decisao"
+  - id: papeis
+    label: "Papéis"
+    path: "/papeis"
+  - id: construa-sua-area
+    label: "Construa sua área"
+    path: "/construa-sua-area"

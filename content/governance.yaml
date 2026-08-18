@@ -1,0 +1,79 @@
+governance:
+  title: "Governança que aumenta a qualidade das escolhas sem substituir quem decide"
+  principles:
+    - "A linha hierárquica executiva permanece explícita: os Heads respondem ao CEO."
+    - "Conselho governa; Comitê aprofunda; CEO e líderes executam e decidem dentro de suas alçadas."
+    - "Informação pode circular amplamente sem transformar fóruns consultivos em centros paralelos de comando."
+
+  bodies:
+    - id: conselho
+      name: "Conselho Estratégico"
+      purpose: "Orientar estratégia, acompanhar resultados, riscos, capital e evolução da liderança executiva."
+      composition:
+        confirmed:
+          - "3 sócios da CALC"
+          - "Advisor"
+      question: "Estamos indo na direção correta?"
+      does:
+        - "Tensiona e orienta a estratégia."
+        - "Acompanha resultados e riscos relevantes."
+        - "Discute alocação de capital e grandes escolhas."
+        - "Acompanha a evolução do CEO e do modelo de liderança."
+      doesNot:
+        - "Gerenciar equipes."
+        - "Distribuir tarefas."
+        - "Operar backlog."
+        - "Substituir CEO ou Heads nas decisões executivas."
+      note: >
+        Algumas matérias continuam reservadas aos sócios enquanto proprietários, mesmo que os sócios participem do Conselho.
+
+    - id: materias-socios
+      name: "Matérias reservadas aos sócios"
+      purpose: "Preservar decisões patrimoniais e societárias que pertencem aos proprietários."
+      examples:
+        - "Entrada ou saída de sócios."
+        - "Alterações societárias relevantes."
+        - "Distribuição de resultados e temas patrimoniais."
+        - "Venda, combinação ou transação societária relevante."
+      display: "nota-de-governanca"
+
+    - id: comite
+      name: "Comitê de Crescimento & Transformação"
+      purpose: >
+        Ser um fórum estruturado de aprofundamento, aprendizagem e construção de recomendações,
+        aumentando a qualidade das decisões sem substituir quem tem autoridade para decidir.
+      question: "O que precisamos compreender melhor antes de decidir ou agir?"
+      composition:
+        proposed:
+          - "CEO"
+          - "Membros do Conselho conforme pauta"
+          - "Líderes responsáveis pelo tema"
+          - "Convidados e especialistas quando agregarem contexto"
+      does:
+        - "Aprofunda temas estratégicos e hipóteses."
+        - "Expõe Conselho e CEO a mais informação e perspectivas."
+        - "Ouve os líderes responsáveis pelo tema."
+        - "Tensiona alternativas e premissas."
+        - "Avalia aprendizados e evidências."
+        - "Constrói recomendações."
+      doesNot:
+        - "Gerenciar pessoas ou áreas."
+        - "Distribuir tarefas."
+        - "Definir backlog."
+        - "Substituir o CEO ou o Head accountable."
+        - "Transformar a reunião em fórum de microdecisão operacional."
+      mantra: "O Comitê aumenta a qualidade das decisões. Não toma o lugar de quem tem autoridade para decidir."
+
+    - id: gestao-executiva
+      name: "Gestão Executiva"
+      purpose: "Transformar direção em escolhas, prioridades e execução."
+      composition:
+        confirmed:
+          - "CEO"
+          - "Heads das macroáreas"
+      question: "O que faremos, quem é accountable e como vamos executar?"
+      does:
+        - "Decide dentro das alçadas definidas."
+        - "Define prioridades e compromissos."
+        - "Opera e transforma as áreas."
+        - "Desenvolve pessoas, capacidades e papéis."
