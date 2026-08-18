@@ -83,22 +83,75 @@ futureCapabilities:
       description: >
         Inovação deixa de depender de iniciativas informais: hipóteses, experimentos e MVPs são puxados e organizados dentro da lógica de portfólio.
 
+metricsFramework:
+  title: "Não basta medir o resultado final. Precisamos medir se o modelo está realmente mudando."
+  problem: >
+    Receita, EBITDA e margem continuam essenciais, mas são indicadores tardios. Sozinhos, eles não mostram se a CALC está ficando mais escalável, se o conhecimento está deixando de depender de pessoas específicas ou se tecnologia e IA estão mudando de fato a economia da operação.
+  principle: >
+    Cada dimensão deve combinar um indicador de resultado com indicadores que expliquem por que o resultado está mudando. O objetivo não é maximizar uma métrica isolada, mas observar o sistema: mais produtividade sem piorar qualidade; mais automação sem piorar experiência; mais software sem destruir margem ou aderência do cliente.
+
 transformationMetrics:
-  - id: revenue_per_fte
-    label: "Receita por FTE operacional"
-    intent: "Medir se a receita cresce mais rapidamente que a necessidade de capacidade humana."
-  - id: automation_rate
-    label: "% de etapas automatizadas"
-    intent: "Medir quanto da operação é executada com menor intervenção humana."
-  - id: productivity
-    label: "Produtividade operacional"
-    intent: "Medir output por unidade de capacidade."
-  - id: contribution_margin
-    label: "Margem de contribuição por oferta"
-    intent: "Medir qualidade econômica do portfólio."
-  - id: reusable_ip_revenue
-    label: "Receita apoiada por ativos reutilizáveis"
-    intent: "Medir alavancagem do conhecimento institucional."
-  - id: portfolio_mix
-    label: "Mix de receita por tipo de oferta"
-    intent: "Acompanhar serviços, tech-enabled, híbridos, software e dados."
+  - id: economic_leverage
+    label: "1. Alavancagem econômica do conhecimento"
+    question: "A receita e a margem estão crescendo mais rápido que a necessidade de capacidade humana?"
+    outcome: "Receita e margem de contribuição por FTE operacional."
+    drivers:
+      - "Receita líquida / FTE operacional médio."
+      - "Margem de contribuição / FTE operacional."
+      - "Crescimento de receita versus crescimento de headcount operacional."
+    interpretation: >
+      É a tradução mais direta da North Star econômica. O avanço é real quando receita e margem crescem sem exigir crescimento proporcional de pessoas.
+    example: >
+      Se a receita cresce 20% e o headcount operacional cresce 5%, há evidência de alavancagem. Se ambos crescem 20%, a empresa cresceu, mas o modelo econômico pouco mudou.
+
+  - id: straight_through
+    label: "2. Automação que muda a operação"
+    question: "Quanto do trabalho flui sem depender de intervenção humana?"
+    outcome: "% do volume elegível concluído sem intervenção humana."
+    drivers:
+      - "% de etapas automatizadas por fluxo."
+      - "Número médio de intervenções humanas por entrega."
+      - "Tempo de ciclo antes e depois da automação."
+    interpretation: >
+      Contar robôs, agentes ou funcionalidades de IA mede atividade, não transformação. O que importa é reduzir trabalho manual real em processos relevantes.
+    example: >
+      Automatizar 80% de uma etapa que representa apenas 5% do esforço total quase não altera a economia. Automatizar de ponta a ponta um fluxo que concentra grande parte das horas operacionais altera o modelo.
+
+  - id: productivity_quality
+    label: "3. Produtividade sem sacrificar qualidade"
+    question: "Estamos produzindo mais com a mesma capacidade sem transferir custo para retrabalho, erro ou cliente?"
+    outcome: "Output por FTE combinado com qualidade, SLA e retrabalho."
+    drivers:
+      - "Cálculos ou entregas por FTE."
+      - "% de retrabalho e taxa de erro."
+      - "Cumprimento de SLA e tempo de ciclo."
+    interpretation: >
+      Produtividade isolada pode ser enganosa. Ela só representa evolução quando aumenta enquanto qualidade e experiência permanecem estáveis ou melhoram.
+    example: >
+      Sair de 14 para 20 cálculos por pessoa/dia é positivo se erros e retrabalho não aumentarem. Se o ganho exigir mais correções posteriores, parte da produtividade é apenas aparente.
+
+  - id: reusable_knowledge
+    label: "4. Conhecimento institucional e reutilizável"
+    question: "Quanto do valor entregue depende de conhecimento codificado e reutilizável, e não apenas de especialistas individuais?"
+    outcome: "% do volume ou receita apoiado por ativos de conhecimento reutilizáveis."
+    drivers:
+      - "% de regras, modelos, componentes e metodologias codificados."
+      - "Reutilização dos mesmos ativos entre clientes, times e ofertas."
+      - "Redução da dependência de especialistas para decisões recorrentes."
+    interpretation: >
+      Essa dimensão mede se o principal ativo da empresa está migrando da cabeça das pessoas para um patrimônio institucional que pode ser reutilizado e amplificado.
+    example: >
+      Uma regra fiscal registrada em um documento não é necessariamente escalável. Quando ela passa a alimentar metodologia, validações automáticas, IA ou software reutilizado em centenas de casos, virou um ativo econômico.
+
+  - id: portfolio_evolution
+    label: "5. Evolução econômica do portfólio"
+    question: "O mix de ofertas está migrando para formatos mais escaláveis e economicamente melhores?"
+    outcome: "Receita e margem por tipo de oferta e por estágio do continuum."
+    drivers:
+      - "Mix de receita: serviço tradicional, tech-enabled, híbrido, software e dados."
+      - "Margem de contribuição por oferta."
+      - "Adoção, retenção e expansão das novas ofertas."
+    interpretation: >
+      Lançar produtos não é transformação. A mudança acontece quando ofertas novas ganham adoção, melhoram a economia e passam a representar parcela relevante do portfólio.
+    example: >
+      Um produto de software com pouca adoção não vale mais que um serviço altamente automatizado e rentável. O objetivo é encontrar, para cada problema, o formato que maximiza valor para o cliente e qualidade econômica para a CALC.
