@@ -47,6 +47,13 @@ export const RoleSchema = z.object({
   note: z.string().optional(),
 });
 
+export const InnovationFlowSchema = z.object({
+  title: z.string(),
+  description: z.string(),
+  steps: z.array(z.string()).default([]),
+  principles: z.array(z.string()).default([]),
+});
+
 export const DecisionItemSchema = z.object({
   topic: z.string(),
   accountable: z.string(),
@@ -59,6 +66,7 @@ export const DecisionItemSchema = z.object({
 export const DecisionRightsSchema = z.object({
   title: z.string(),
   description: z.string(),
+  innovationFlow: InnovationFlowSchema.optional(),
   items: z.array(DecisionItemSchema),
 });
 

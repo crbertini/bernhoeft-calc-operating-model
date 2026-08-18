@@ -1,9 +1,10 @@
 governance:
-  title: "Governança que aumenta a qualidade das escolhas sem substituir quem decide"
+  title: "Governança que orienta sem criar uma segunda linha de comando"
   principles:
-    - "A linha hierárquica executiva permanece explícita: os Heads respondem ao CEO."
-    - "Conselho governa; Comitê aprofunda; CEO e líderes executam e decidem dentro de suas alçadas."
-    - "Informação pode circular amplamente sem transformar fóruns consultivos em centros paralelos de comando."
+    - "A linha hierárquica executiva é explícita: os Heads respondem ao CEO."
+    - "Orientação, provocação e recomendação não transferem accountability."
+    - "Conselho governa; Comitê aprofunda; CEO e Heads decidem e executam dentro de suas alçadas."
+    - "Uma recomendação de Luiz, Lucas, César, Murilo ou do Comitê não é uma ordem operacional."
 
   bodies:
     - id: conselho
@@ -11,8 +12,10 @@ governance:
       purpose: "Orientar estratégia, acompanhar resultados, riscos, capital e evolução da liderança executiva."
       composition:
         confirmed:
-          - "3 sócios da CALC"
-          - "Advisor"
+          - "Luiz — Sócio"
+          - "Lucas — Sócio"
+          - "Paulo — Sócio e CEO"
+          - "César — Advisor externo"
       question: "Estamos indo na direção correta?"
       does:
         - "Tensiona e orienta a estratégia."
@@ -23,6 +26,7 @@ governance:
         - "Gerenciar equipes."
         - "Distribuir tarefas."
         - "Operar backlog."
+        - "Dar ordens operacionais diretamente aos Heads."
         - "Substituir CEO ou Heads nas decisões executivas."
       note: >
         Algumas matérias continuam reservadas aos sócios enquanto proprietários, mesmo que os sócios participem do Conselho.
@@ -44,14 +48,16 @@ governance:
         aumentando a qualidade das decisões sem substituir quem tem autoridade para decidir.
       question: "O que precisamos compreender melhor antes de decidir ou agir?"
       composition:
-        proposed:
-          - "CEO"
-          - "Membros do Conselho conforme pauta"
-          - "Líderes responsáveis pelo tema"
-          - "Convidados e especialistas quando agregarem contexto"
+        confirmed:
+          - "Conselho Estratégico — Luiz, Lucas, Paulo e César"
+          - "Murilo — Consultor externo"
+          - "Head de Crescimento"
+          - "Head de Operações"
+          - "Head de Ofertas & Portfólio"
+          - "Head de Tecnologia & Engenharia"
       does:
         - "Aprofunda temas estratégicos e hipóteses."
-        - "Expõe Conselho e CEO a mais informação e perspectivas."
+        - "Expõe Conselho, CEO e Heads a mais informação e perspectivas."
         - "Ouve os líderes responsáveis pelo tema."
         - "Tensiona alternativas e premissas."
         - "Avalia aprendizados e evidências."
@@ -60,6 +66,7 @@ governance:
         - "Gerenciar pessoas ou áreas."
         - "Distribuir tarefas."
         - "Definir backlog."
+        - "Dar ordem operacional a um Head."
         - "Substituir o CEO ou o Head accountable."
         - "Transformar a reunião em fórum de microdecisão operacional."
       mantra: "O Comitê aumenta a qualidade das decisões. Não toma o lugar de quem tem autoridade para decidir."
@@ -77,3 +84,4 @@ governance:
         - "Define prioridades e compromissos."
         - "Opera e transforma as áreas."
         - "Desenvolve pessoas, capacidades e papéis."
+      mantra: "O Head pode ouvir muitas vozes. A decisão dentro da sua alçada continua sendo sua, e sua prestação de contas é ao CEO."

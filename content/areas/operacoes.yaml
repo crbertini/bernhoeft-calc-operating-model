@@ -11,8 +11,9 @@ accountabilities:
   - "Realização contínua de valor pelo cliente."
   - "Produtividade, capacidade, qualidade, SLA e margem operacional."
   - "Desenvolvimento da disciplina operacional dos L3 e L4."
+  - "Redesenho contínuo de processos para aproveitar tecnologia, IA e automação."
   - "Identificação de riscos de relacionamento e oportunidades de expansão."
-  - "Parceria com Crescimento para comercialização de oportunidades de expansão."
+  - "Geração de leads qualificados para Crescimento a partir da proximidade com a base."
 capabilities:
   - name: "Gestão de squads e capacidade"
     required: true
@@ -22,16 +23,17 @@ capabilities:
     required: true
   - name: "Gestão de performance operacional"
     required: true
-  - name: "Melhoria contínua e automação"
+  - name: "Excelência Operacional & Melhoria Contínua"
     required: true
+    note: "Capability de desenho de processos, padrões, produtividade, indicadores, automação e evolução da linha operacional. Não implica cargo dedicado imediato."
   - name: "Identificação de expansão na base"
     required: true
 exampleRoles:
   - "L3 — Líder de Grupo de Squads"
   - "L4 — Líder de Squad"
-  - "Papel de Qualidade & Metodologia, quando necessário"
+  - "Papel de Excelência Operacional & Melhoria Contínua, se a escala justificar"
 customerModel:
   primaryRelationshipOwner: "Operações"
   expansionModel: >
-    Operações identifica e cultiva a oportunidade; Crescimento conduz a abordagem comercial e negociação em parceria com o responsável operacional.
+    Operações identifica, qualifica e cultiva a oportunidade; Crescimento conduz a abordagem comercial e negociação. O forecast é um dos artefatos que conectam as duas áreas.
   principle: "O cliente deve perceber uma Bernhoeft integrada, não múltiplas interfaces concorrentes."

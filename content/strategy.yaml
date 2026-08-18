@@ -8,9 +8,10 @@ hero:
 thesis:
   title: "A CALC que estamos construindo"
   statement: >
-    O próximo ciclo de crescimento exige desacoplar progressivamente escala de receita
-    e crescimento de headcount, transformando conhecimento especializado em processos,
-    serviços aumentados por tecnologia e IA, soluções híbridas, software e ativos de dados.
+    O próximo ciclo de crescimento exige fazer a receita crescer mais rapidamente que a
+    necessidade de crescimento do headcount. Isso não é uma tese de redução de pessoas:
+    é uma tese de produtividade, escala e alavancagem do conhecimento por processos,
+    tecnologia, IA, soluções híbridas, software e ativos de dados.
   economicNorthStar: >
     Aumentar de forma sustentável a receita e a margem geradas por unidade de conhecimento humano proprietário.
 
@@ -29,8 +30,8 @@ continuum:
 fromTo:
   - from: "Conhecimento concentrado nas pessoas"
     to: "Conhecimento institucional, reutilizável e escalável"
-  - from: "Escala predominantemente por headcount"
-    to: "Escala por pessoas + processos + tecnologia + IA + dados"
+  - from: "Receita cresce quase junto com headcount"
+    to: "Receita cresce mais rápido que a necessidade de pessoas"
   - from: "Serviços isolados"
     to: "Portfólio econômico de soluções"
   - from: "Tecnologia como suporte"
@@ -55,13 +56,13 @@ principles:
       Product Management, RevOps ou Produtos de Dados podem ser capacidades necessárias sem exigir imediatamente posições dedicadas.
   - title: "Pessoa não é papel"
     description: >
-      Uma pessoa pode exercer mais de um papel; um papel só deve se tornar uma posição dedicada quando escala e complexidade justificarem.
+      Uma pessoa pode exercer mais de um papel; um papel pode existir sem ocupante e só deve virar posição dedicada quando escala e complexidade justificarem.
   - title: "Accountability exige autoridade"
     description: >
       Quem responde por um resultado precisa ter alçada suficiente para tomar as decisões necessárias.
   - title: "Ofertas administra o portfólio econômico"
     description: >
-      A área decide quais problemas atacar, quais ofertas criar, evoluir, automatizar, manter ou retirar, e como capturar valor.
+      A área decide quais problemas atacar, quais ofertas criar, experimentar, evoluir, automatizar, manter ou retirar, e como capturar valor.
   - title: "Produto e Tecnologia são distintos"
     description: >
       Ofertas define o que e por quê; Tecnologia define como construir e operar de forma sustentável.
@@ -72,7 +73,7 @@ principles:
 transformationMetrics:
   - id: revenue_per_fte
     label: "Receita por FTE operacional"
-    intent: "Medir desacoplamento entre escala de receita e escala de pessoas."
+    intent: "Medir se a receita cresce mais rapidamente que a necessidade de capacidade humana."
   - id: automation_rate
     label: "% de etapas automatizadas"
     intent: "Medir quanto da operação é executada com menor intervenção humana."
