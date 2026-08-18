@@ -8,5 +8,15 @@ export default function Home(){ const s=getStrategy(); return <>
   <Section eyebrow="Portfólio" title={s.continuum.title} intro={s.continuum.description}><div className="continuum">{s.continuum.stages.map((x:string,i:number)=><div key={x}><span>{i+1}</span>{x}</div>)}</div></Section>
   <Section eyebrow="Princípios" title="Como vamos organizar a transformação"><div className="grid3">{s.principles.map((p:any)=><article className="card" key={p.title}><h3>{p.title}</h3><p>{p.description}</p></article>)}</div></Section>
   {s.futureCapabilities && <Section eyebrow="Próximo ciclo" title={s.futureCapabilities.title}><div className="grid3">{s.futureCapabilities.items.map((item:any)=><article className="card" key={item.title}><h3>{item.title}</h3><p>{item.description}</p></article>)}</div></Section>}
-  <Section eyebrow="Métricas" title="Como saberemos se a transformação está acontecendo"><div className="grid3">{s.transformationMetrics.map((m:any)=><article className="metric" key={m.id}><strong>{m.label}</strong><span>{m.intent}</span></article>)}</div></Section>
+  <Section eyebrow="Métricas" title={s.metricsFramework.title} intro={s.metricsFramework.problem}>
+    <div className="callout compact"><strong>Princípio de leitura</strong><p>{s.metricsFramework.principle}</p></div>
+    <div className="grid2" style={{marginTop:20}}>{s.transformationMetrics.map((m:any)=><article className="card" key={m.id}>
+      <div className="cardKicker">{m.question}</div>
+      <h3>{m.label}</h3>
+      <div className="miniLabel">Indicador de resultado</div><p><strong>{m.outcome}</strong></p>
+      <div className="miniLabel">O que explica o movimento</div><ul>{m.drivers.map((d:string)=><li key={d}>{d}</li>)}</ul>
+      <div className="miniLabel">Como interpretar</div><p>{m.interpretation}</p>
+      <div className="miniLabel">Exemplo</div><p>{m.example}</p>
+    </article>)}</div>
+  </Section>
 </> }
